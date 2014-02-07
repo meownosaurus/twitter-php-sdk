@@ -159,3 +159,6 @@ Authenticate user (OAuth)
     }
 ?>
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/meownosaurus/twitter-php-sdk/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
